@@ -15,6 +15,6 @@ python -m pip install --upgrade pip
 `pip install -r requirements.txt`
 
 ### 4. Using Jarvis
-Fill in your keys for the OpenAI API and Elevenlabs API in the first few lines of 'jarvis.py'
-Run the program
+Fill in your keys for the OpenAI API and Elevenlabs API in the first few lines of 'jarvis.py'  
+Run the program  
 `python jarvis.py`
