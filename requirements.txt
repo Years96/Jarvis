@@ -1,0 +1,4 @@
+elevenlabslib==0.6.0
+openai==0.27.6
+SpeechRecognition==3.10.0
+pyaudio==0.2.13
